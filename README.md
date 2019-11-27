@@ -30,7 +30,7 @@ ical = "0.6.*"
 
 ## Overview
 
-There are several ways to use Ical depending on the level of parsing you want. Some new wrapper/formater could appear in
+There are several ways to use Ical depending on the level of parsing you want. Some new wrapper/formatter could appear in
 the next releases.
 
 By default all the features are included but you can choose to include in your project only the needed ones.
